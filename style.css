@@ -1,0 +1,71 @@
+
+#navsection{
+  display: inline-block;
+background-color: red;
+color: white;
+height: 30px;
+width: 1240px;
+position: relative; right: 130px;
+}
+#navsection2{
+    position: relative; right: 100px; top: 8px;
+  }
+  #navsection2 a,p{position: relative;left: 36px;}
+  #navsection2 a{font-weight: lighter; font-size: 10px; position: relative; left: 75px;}
+  #navsection2 p{font-weight: bolder; font-size: 16px; position: relative; right: 1px;}
+ 
+    
+li,ul {  display: inline-block;
+    padding-right: 75px;
+position: relative;
+left: 15px;
+bottom: 5px;
+}
+#navsection li,ul {padding-right: 65px;
+font-weight: bolder;
+}
+
+
+#article0 {font-size: 140%;
+    text-align: center;
+    width: 700px;
+position: relative; top: -50px; right: 160px;}
+#article0 h1{font-size: 35px; text-align: right; position: relative; left: 34px ;}
+#article0 a{text-align: right;}
+#article0 p {text-align: right;}
+    #dates{
+    width: 300px;font-size: 70%; position: relative;  left: 32px;
+top: 2px; font-weight: lighter; font-size: 16px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+    #article1image {position: relative; bottom: 315px ; right: 555px;}
+        
+    
+    .articles {display: inline-block; position: relative; right: 150px;
+        bottom: 280px ;}
+    #ArticlesSection h5{position: relative; right: 18px; font-size: 14px;}
+    #ArticlesSection p{position: relative; right: 8px; font-size: 12px; font-weight: lighter;}
+    h1{font-size: 120%;}
+    #mivzakim{color: red; padding-right: 80px;
+    position: relative; bottom: 18px; right: 20px;
+font-weight: bold; }
+
+   #nav1 a {
+       text-decoration: none;
+        color: white;}
+        #nav1 a:hover {text-decoration: underline; font-weight: bolder;}
+        #nav2 a:link, a:visited{text-decoration: none; color: black; }
+        #nav2 a:hover{color: blue;}
+        .bottomnav {border-left: 0.5px dotted black; padding-left: 40px;}
+
+#ArticlesSection a, #article0 a {text-decoration: none;}
+
+ a{text-decoration: none;}
+
+ #article1 {border-bottom: 5px solid red;}
+ #article2 {border-bottom: 5px solid blue;}
+
+#article3 {border-bottom: 5px solid red;}
+#article4 {border-bottom: 5px solid grey;
+    background-color: rgb(220, 255, 255);
+}
